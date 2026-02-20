@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Home",
+    "active": true,
+    "type": "link",
+    "path": "/layout/shoes"
+  },
+  {
+    "title": "About Us",
+    "active": false,
+    "type": "link",
+    "path": "/blog/blog_details"
+  },
+  {
+    "title": "Shop",
+    "active": false,
+    "type": "link",
+    "path": "/shop/shop_left_sidebar"
+  },
+  {
+    "title": "Contact Us",
+    "active": false,
+    "type": "link",
+    "path": "/page/contact_us"
+  }
+]
