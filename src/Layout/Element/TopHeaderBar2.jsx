@@ -10,7 +10,7 @@ const TopHeaderBar2 = () => {
         <Row>
           <div className='col-auto d-xl-block d-none'>
             <ul className='border-list'>
-              <li>Voxo ecommerce always free delivery</li>
+              <li>Murrvy ecommerce always free delivery</li>
               <li>New Customer Extra 50% Off</li>
             </ul>
           </div>
